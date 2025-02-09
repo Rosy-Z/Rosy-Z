@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning CS.
 - 👯 I’m looking to collaborate on everything I will learn.
 - 🤔 I’m looking for help with the helper in the world.
-- ⚡ Fun fact: Swimming and Drawing etc.
 
